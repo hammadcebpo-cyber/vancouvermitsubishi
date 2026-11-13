@@ -1,0 +1,6 @@
+{
+  "name": "Vancouver Mitsubishi",
+  "description": "Official dealership web experience for Vancouver Mitsubishi — bringing Mitsubishi back to Vancouver, BC with new and pre-owned vehicles, flexible financing, and dedicated service and parts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
